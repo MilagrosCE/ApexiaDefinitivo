@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+WYyjyoxIA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milag\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\milag\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\milag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512",
+    "C:\\Users\\milag\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

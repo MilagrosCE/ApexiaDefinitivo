@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Apexia.API/Apexia.API.csproj" />
+  <Project Path="Apexia.Core/Apexia.Core.csproj" />
+  <Project Path="Apexia.Infraestructure/Apexia.Infrastructure.csproj" />
+  <Project Path="Apexia.Shared/Apexia.Shared.csproj" />
+  <Project Path="Apexia.Tests/Apexia.Tests.csproj" />
+</Solution>
