@@ -1580,23 +1580,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\milag\\.nuget\\packages\\": {},
+    "C:\\Users\\lunaz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
       "projectName": "Apexia.Tests",
-      "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
-      "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\obj\\",
+      "projectPath": "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
+      "packagesPath": "C:\\Users\\lunaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\milag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lunaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1605,7 +1605,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1613,11 +1612,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
-              "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
+            "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
+              "projectPath": "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
             },
-            "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj"
+            "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\lunaz\\Documents\\ApexiaApi\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj"
             }
           }
         }
@@ -1632,7 +1631,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "11.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -1672,7 +1671,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

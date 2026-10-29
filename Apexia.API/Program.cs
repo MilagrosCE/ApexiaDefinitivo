@@ -6,8 +6,6 @@ using Apexia.Core.Services;
 using Apexia.Infrastructure.Extensions;
 using FluentValidation;
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apexia.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd3783a849ad8ad440dfa26b1387a1ced50c61c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b525fd51874efdf286b7c661dbcae498342e0a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apexia.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apexia.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
