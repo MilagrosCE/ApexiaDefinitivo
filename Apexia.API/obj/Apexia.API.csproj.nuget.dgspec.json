@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj": {}
+    "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj": {
+    "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
         "projectName": "Apexia.API",
-        "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
+        "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\obj\\",
+        "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,14 +34,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
               },
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj"
               },
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
               }
             }
           }
@@ -63,13 +63,33 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.14, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[10.0.11, )"
+              "version": "[10.0.14, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.24.1-preview.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.1, )"
             }
           },
           "imports": [
@@ -509,14 +529,14 @@
         }
       }
     },
-    "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
+    "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
         "projectName": "Apexia.Core",
-        "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
+        "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\obj\\",
+        "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -539,8 +559,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
               }
             }
           }
@@ -561,6 +581,20 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.14, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.23.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -855,14 +889,14 @@
         }
       }
     },
-    "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
+    "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
         "projectName": "Apexia.Infrastructure",
-        "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -885,11 +919,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj"
               },
-              "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
-                "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
+              "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
+                "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj"
               }
             }
           }
@@ -911,13 +945,17 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.89, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[10.0.12, )"
+              "version": "[10.0.14, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[10.0.12, )"
+              "version": "[10.0.14, )"
             },
             "MySqlConnector": {
               "target": "Package",
@@ -1218,14 +1256,14 @@
         }
       }
     },
-    "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
+    "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
         "projectName": "Apexia.Shared",
-        "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+        "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\obj\\",
+        "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

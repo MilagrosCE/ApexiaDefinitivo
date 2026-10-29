@@ -1,58 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\",
+  "WorkspaceRootPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.tests\\testconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\testconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.infraestructure\\context\\archivolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\context\\archivolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.api\\automapper\\mappeoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\automapper\\mappeoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.infraestructure\\apexia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\apexia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.api\\apexia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\apexia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46239264-81FA-55DB-BEF4-B15929AC17DF}|Apexia.Core\\Apexia.Core.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.core\\apexia.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46239264-81FA-55DB-BEF4-B15929AC17DF}|Apexia.Core\\Apexia.Core.csproj|solutionrelative:apexia.core\\apexia.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infraestructure.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.infraestructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infraestructure.csproj|solutionrelative:apexia.infraestructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.tests\\testconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\testconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{46239264-81FA-55DB-BEF4-B15929AC17DF}|Apexia.Core\\Apexia.Core.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.core\\interfaces\\imyconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46239264-81FA-55DB-BEF4-B15929AC17DF}|Apexia.Core\\Apexia.Core.csproj|solutionrelative:apexia.core\\interfaces\\imyconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1EF1F8-8C66-475E-A32C-C3D19FF9A02E}|Apexia.Core\\Apexia.Core.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.core\\apexia.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EE1EF1F8-8C66-475E-A32C-C3D19FF9A02E}|Apexia.Core\\Apexia.Core.csproj|solutionrelative:apexia.core\\apexia.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.infraestructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infraestructure.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.infraestructure\\context\\myconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7E0D334-3162-4F09-B835-A5BBDE17E7DF}|Apexia.Infraestructure\\Apexia.Infraestructure.csproj|solutionrelative:apexia.infraestructure\\context\\myconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.infraestructure\\context\\archivolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\context\\archivolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.tests\\apexia.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\apexia.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.infraestructure\\context\\myconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\context\\myconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C55856D-E08F-4585-9994-33B1562FAA53}|Apexia.Shared\\Apexia.Shared.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.shared\\apexia.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3C55856D-E08F-4585-9994-33B1562FAA53}|Apexia.Shared\\Apexia.Shared.csproj|solutionrelative:apexia.shared\\apexia.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.tests\\apexia.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\apexia.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1EF1F8-8C66-475E-A32C-C3D19FF9A02E}|Apexia.Core\\Apexia.Core.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.core\\interfaces\\imyconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1EF1F8-8C66-475E-A32C-C3D19FF9A02E}|Apexia.Core\\Apexia.Core.csproj|solutionrelative:apexia.core\\interfaces\\imyconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F0C6209-2A93-BAA8-42D3-2DBDA121564A}|Apexia.Shared\\Apexia.Shared.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.shared\\apexia.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F0C6209-2A93-BAA8-42D3-2DBDA121564A}|Apexia.Shared\\Apexia.Shared.csproj|solutionrelative:apexia.shared\\apexia.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.api\\apexia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8D3A703-8247-47B2-A307-3EF18C7977A5}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\apexia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.infraestructure\\apexia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8103F6BF-0D75-0C2C-B35A-4E5BD7363D4B}|Apexia.Infraestructure\\Apexia.Infrastructure.csproj|solutionrelative:apexia.infraestructure\\apexia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\source\\repos\\apexiadefinitivo\\apexia.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3BC7BC0-D5DA-4DB5-9A76-ED90EDD829E0}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C2D060E-73D1-322B-A2A9-3C8F8E28E0D9}|Apexia.API\\Apexia.API.csproj|solutionrelative:apexia.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|c:\\users\\milag\\onedrive\\documentos\\apexiadefinitivo\\apexia.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED7918-182A-7110-D806-B87656965F7B}|Apexia.Tests\\Apexia.Tests.csproj|solutionrelative:apexia.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +69,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestConexion.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\TestConexion.cs",
-              "RelativeDocumentMoniker": "Apexia.Tests\\TestConexion.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\TestConexion.cs",
-              "RelativeToolTip": "Apexia.Tests\\TestConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T19:36:40.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArchivoLog.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\ArchivoLog.cs",
-              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Context\\ArchivoLog.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\ArchivoLog.cs",
-              "RelativeToolTip": "Apexia.Infraestructure\\Context\\ArchivoLog.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAnAAAAAAAAAA==",
+              "Title": "MappeoObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\AutoMapper\\MappeoObjeto.cs",
+              "RelativeDocumentMoniker": "Apexia.API\\AutoMapper\\MappeoObjeto.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\AutoMapper\\MappeoObjeto.cs",
+              "RelativeToolTip": "Apexia.API\\AutoMapper\\MappeoObjeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T19:33:54.047Z",
+              "WhenOpened": "2026-10-29T00:39:48.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Program.cs",
-              "RelativeDocumentMoniker": "Apexia.API\\Program.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Program.cs",
-              "RelativeToolTip": "Apexia.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T19:15:54.283Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\milag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\milag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\build\\Container.targets",
+              "ViewState": "AgIAANoAAAAAAAAAAAAjwOQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-21T21:05:04.003Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Title": "TestConexion.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\TestConexion.cs",
+              "RelativeDocumentMoniker": "Apexia.Tests\\TestConexion.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\TestConexion.cs",
+              "RelativeToolTip": "Apexia.Tests\\TestConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T19:09:50.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T19:36:40.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MyConexion.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\MyConexion.cs",
-              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Context\\MyConexion.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\MyConexion.cs",
-              "RelativeToolTip": "Apexia.Infraestructure\\Context\\MyConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Title": "ArchivoLog.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\ArchivoLog.cs",
+              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Context\\ArchivoLog.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\ArchivoLog.cs",
+              "RelativeToolTip": "Apexia.Infraestructure\\Context\\ArchivoLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T19:04:21.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T19:33:54.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Program.cs",
+              "RelativeDocumentMoniker": "Apexia.API\\Program.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Program.cs",
+              "RelativeToolTip": "Apexia.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:15:54.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Apexia.Core",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
-              "RelativeDocumentMoniker": "Apexia.Core\\Apexia.Core.csproj",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
-              "RelativeToolTip": "Apexia.Core\\Apexia.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T18:58:13.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IMyConection.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Interfaces\\IMyConection.cs",
-              "RelativeDocumentMoniker": "Apexia.Core\\Interfaces\\IMyConection.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Core\\Interfaces\\IMyConection.cs",
-              "RelativeToolTip": "Apexia.Core\\Interfaces\\IMyConection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Apexia.Infraestructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T18:59:16.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Apexia.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\appsettings.Development.json",
-              "RelativeToolTip": "Apexia.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-09T18:54:15.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Apexia.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
-              "RelativeToolTip": "Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T18:49:00.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Apexia.Shared",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
-              "RelativeDocumentMoniker": "Apexia.Shared\\Apexia.Shared.csproj",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
-              "RelativeToolTip": "Apexia.Shared\\Apexia.Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T18:43:38.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T19:09:50.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Apexia.Tests",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
-              "RelativeDocumentMoniker": "Apexia.Tests\\Apexia.Tests.csproj",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
-              "RelativeToolTip": "Apexia.Tests\\Apexia.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T18:42:08.245Z",
-              "EditorCaption": ""
+              "Title": "MyConexion.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\MyConexion.cs",
+              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Context\\MyConexion.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Context\\MyConexion.cs",
+              "RelativeToolTip": "Apexia.Infraestructure\\Context\\MyConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:04:21.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Apexia.API",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
-              "RelativeDocumentMoniker": "Apexia.API\\Apexia.API.csproj",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
-              "RelativeToolTip": "Apexia.API\\Apexia.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Apexia.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
+              "RelativeDocumentMoniker": "Apexia.Core\\Apexia.Core.csproj",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Apexia.Core.csproj",
+              "RelativeToolTip": "Apexia.Core\\Apexia.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-09T18:38:23.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T18:58:13.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMyConection.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Interfaces\\IMyConection.cs",
+              "RelativeDocumentMoniker": "Apexia.Core\\Interfaces\\IMyConection.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Core\\Interfaces\\IMyConection.cs",
+              "RelativeToolTip": "Apexia.Core\\Interfaces\\IMyConection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T18:59:16.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Apexia.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\appsettings.Development.json",
+              "RelativeToolTip": "Apexia.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T18:54:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apexia.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+              "RelativeToolTip": "Apexia.Infraestructure\\Apexia.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T18:49:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apexia.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+              "RelativeDocumentMoniker": "Apexia.Shared\\Apexia.Shared.csproj",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+              "RelativeToolTip": "Apexia.Shared\\Apexia.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T18:43:38.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apexia.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
+              "RelativeDocumentMoniker": "Apexia.Tests\\Apexia.Tests.csproj",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\Apexia.Tests.csproj",
+              "RelativeToolTip": "Apexia.Tests\\Apexia.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T18:42:08.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apexia.API.csproj",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
+              "RelativeDocumentMoniker": "Apexia.API\\Apexia.API.csproj",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.API\\Apexia.API.csproj",
+              "RelativeToolTip": "Apexia.API\\Apexia.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T18:38:23.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Apexia.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Tests\\UnitTest1.cs",
               "RelativeToolTip": "Apexia.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T18:38:02.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T18:38:02.78Z"
             }
           ]
         }

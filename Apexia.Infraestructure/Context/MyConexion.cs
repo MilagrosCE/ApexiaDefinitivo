@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Data;
 using System.Collections.Generic;
 using System.Text;
 using MySqlConnector;
@@ -26,8 +26,17 @@ namespace Apexia.Infrastructure.Context
         public async Task<System.Data.IDbConnection> obtenerConexionAsync()
         {
             MySqlConnection conn = new MySqlConnection(_cadenaDeConexion);
-            await conn.OpenAsync();
-            return conn;
+            try
+            {
+                await conn.OpenAsync();
+                return conn;
+            }
+            catch (Exception error)
+            {
+                ArchivoLog.RegistrarErrores(error);
+                conn.Dispose();
+                throw;
+            }
         }
     }
 }

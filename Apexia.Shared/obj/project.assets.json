@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
       "projectName": "Apexia.Shared",
-      "projectPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
+      "projectPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\Apexia.Shared.csproj",
       "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milag\\source\\repos\\ApexiaDefinitivo\\Apexia.Shared\\obj\\",
+      "outputPath": "C:\\Users\\milag\\OneDrive\\Documentos\\ApexiaDefinitivo\\Apexia.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
